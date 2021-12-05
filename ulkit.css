@@ -1,0 +1,114 @@
+.uk-card-default{
+    width: 400px;
+    height: 275px;
+    padding: 20px;
+    margin-top: 50px;
+    margin-left: 220px;
+}
+.main{
+    margin: 100px;
+}
+.text{
+    margin-left: 170px;
+    text-align: center;
+}
+.img{
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    top: -40px;
+    position: relative;
+}
+.img2{
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    position: relative;
+    left: -7px;
+    top: -39px;
+}
+.uk{
+    position: relative;
+    top: -74px;
+    left: 310px;
+    font-size: 25px;
+}
+.uk-card-title{
+    position: relative;
+    top: -50px;
+    font-size: 25px;
+}
+.uk-card-titlee{
+    font-size: 25px;
+}
+.one{
+    width: 700px;
+    height: 100%;
+    position: relative;
+    top: -56px;
+    display: inline-block;
+}
+.two{
+    width: 700px;
+    height: 100%;
+    position: relative;
+    top: -80px;
+    display: inline-block;
+}
+.three{
+    width: 700px;
+    height: 100%;
+    position: relative;
+    top: -80px;
+    display: inline-block;
+}
+.Line1{
+    position: absolute;
+    left: 870px;
+    top: 0;
+    height: 100%;
+    width: 1px;
+    margin-left:23px;  
+    margin-top:0px;  
+    background: grey;
+}
+.far.fa-edit{
+    font-size: 35px;
+    position: relative;
+    top: 13px;
+    left: 15px;
+}
+.footer{
+    width: 440px;
+    height: 65px;
+    background-color: whitesmoke;
+    margin-left: 220px;
+}
+.fas.fa-history{
+    font-size: 35px;
+    position: relative;
+    top: 13px;
+    left: 15px;
+}
+.far.fa-comments{
+    font-size: 35px;
+    position: relative;
+    top: 13px;
+    left: 15px;
+}
+.far.fa-trash-alt{
+    font-size: 35px;
+    position: relative;
+    top: 13px;
+    left: 270px;
+}
+.Line2{
+    position: absolute;
+    left: 1570px;
+    top: 0;
+    height: 100%;
+    width: 1px;
+    margin-left:23px;  
+    margin-top:0px;  
+    background: grey;
+}
